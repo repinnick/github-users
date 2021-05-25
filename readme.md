@@ -5,5 +5,5 @@ Search GitHub users by username. Worked with the `GitHub API`, used `rxjs`, `DOM
 ## Installation
 
 - `git clone <repository-url>` this repository
-- `cd test-task`
+- `cd github-users`
 - `npm install`
